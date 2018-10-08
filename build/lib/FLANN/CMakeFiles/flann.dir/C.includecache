@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sun/colmap/lib/FLANN/ext/lz4.c
+lz4.h
+/home/sun/colmap/lib/FLANN/ext/lz4.h
+intrin.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
+/home/sun/colmap/lib/FLANN/ext/lz4.h
+
+/home/sun/colmap/lib/FLANN/ext/lz4hc.c
+lz4hc.h
+/home/sun/colmap/lib/FLANN/ext/lz4hc.h
+lz4.c
+/home/sun/colmap/lib/FLANN/ext/lz4.c
+
+/home/sun/colmap/lib/FLANN/ext/lz4hc.h
+stddef.h
+-
+
